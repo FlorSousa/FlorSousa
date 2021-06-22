@@ -1,4 +1,12 @@
 ### Hi there 👋
+My name is Jhonatas Flor de Sousa, a brazilian student in Federal University from Paraiba, in moment working in the **labdados** as scholarship student 👨‍🎓. I'm 20 years old.
+<br>
+<br>
+Learning **docker** and **java**, always trying improve my skills in languages or projects, currently coding a video streaming for my repositories.
+<br>
+<br>
+Pronouns: He/Him 
+<br>
 
 <!--
 **FlorSousa/FlorSousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
