@@ -24,7 +24,6 @@ Aprendendo **Docker** e **Java** e estudando bastante sobre **microservices** e 
 Ele/dele
 <br>
 ### Redes Sociais:
-![Twitter Badge](https://img.shields.io/twitter/url?label=flor_jhonatas&style=social&url=https%3A%2F%2Ftwitter.com%2Fflor_jhonatas)
 [![Linkedin Badge](https://img.shields.io/badge/-JhonatasFlor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonatas-flor-de-sousa/)](https://www.linkedin.com/in/jhonatas-flor-de-sousa/)
 
 ![image](https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y29kZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80)
